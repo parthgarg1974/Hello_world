@@ -1,0 +1,4 @@
+module hello
+// Hello world program in clean
+ Start :: String
+ Start = "HELLO WORLD!\n"
