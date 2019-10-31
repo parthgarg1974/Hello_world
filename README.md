@@ -1,5 +1,5 @@
 # Hello_world
->The repository contains the implementation of "Hello World", a famous first program for anyone who just started to learn programming languages. This is part of #Hacktoberfest to celebrate a month-long celebration of open source software.
+>The repository contains the implementation of "Hello World", a famous first program for anyone who just started to learn programming languages. This is part of Hacktoberfest to celebrate a month-long celebration of open source software.
 
 ![Hello World](https://bell0bytes.eu/content/images/2017/06/helloworld-1.gif)
 
